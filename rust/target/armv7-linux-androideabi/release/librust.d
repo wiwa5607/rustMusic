@@ -1,0 +1,1 @@
+/home/willw/pop-os/home/willwalker/OneDrive/Projects/rustMusicSelector/rust/target/armv7-linux-androideabi/release/librust.so: /home/willw/pop-os/home/willwalker/OneDrive/Projects/rustMusicSelector/rust/src/lib.rs

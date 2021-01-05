@@ -1,0 +1,6 @@
+/home/willw/pop-os/home/willwalker/OneDrive/Projects/rustMusicSelector/rust/target/rls/debug/deps/byteorder-c6accca92c235593.rmeta: /home/willw/.cargo/registry/src/github.com-1ecc6299db9ec823/byteorder-1.3.4/src/lib.rs /home/willw/.cargo/registry/src/github.com-1ecc6299db9ec823/byteorder-1.3.4/src/io.rs
+
+/home/willw/pop-os/home/willwalker/OneDrive/Projects/rustMusicSelector/rust/target/rls/debug/deps/byteorder-c6accca92c235593.d: /home/willw/.cargo/registry/src/github.com-1ecc6299db9ec823/byteorder-1.3.4/src/lib.rs /home/willw/.cargo/registry/src/github.com-1ecc6299db9ec823/byteorder-1.3.4/src/io.rs
+
+/home/willw/.cargo/registry/src/github.com-1ecc6299db9ec823/byteorder-1.3.4/src/lib.rs:
+/home/willw/.cargo/registry/src/github.com-1ecc6299db9ec823/byteorder-1.3.4/src/io.rs:
